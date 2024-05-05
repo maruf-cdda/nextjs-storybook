@@ -9,5 +9,6 @@ export default {
 export const Default = {
   args: {
     title: "Click Here",
+    className: "bg-blue-500 rounded-md p-2 text-white",
   },
 };
